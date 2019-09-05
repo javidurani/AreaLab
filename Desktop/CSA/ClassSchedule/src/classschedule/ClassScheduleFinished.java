@@ -9,7 +9,7 @@ package classschedule;
  *
  * @author 21122
  */
-public class ClassSchedule {
+public class ClassScheduleFinished {
 
     /**
      * @param args the command line arguments
